@@ -22,7 +22,6 @@ dependencies:
   get_storage:
   fluttertoast:
   background_sms:
-    path: G:\BackgroundSmsPlugin
   persian_number_utility:
   flutter_background_service: ^5.0.10
   flutter_local_notifications:
